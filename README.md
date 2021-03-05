@@ -1,6 +1,6 @@
 # Deployed App Link
 
-[Deployed At](https://biz-cardss.herokuapp.com/card)
+[Deployed At](https://biz-cardss.herokuapp.com/)
 
 
 # Getting Started with Create React App
