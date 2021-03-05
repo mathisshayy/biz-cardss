@@ -1,0 +1,74 @@
+{
+  "name": "biz-cards",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.1",
+    "@tippyjs/react": "^4.2.1",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-css": "^4.0.0-alpha.5",
+    "carousel": "^0.0.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "firebase": "^8.2.1",
+    "firebase-tools": "^9.0.1",
+    "mongoose": "^5.11.8",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react": "^17.0.1",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.2",
+    "roughjs": "^4.3.1",
+    "sequelize": "^6.5.0",
+    "sequelize-cli": "^6.2.0",
+    "web-vitals": "^1.1.0",
+    "webpack-node-externals": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathisshayy/biz_cards.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-app-rewire-alias": "^1.0.1",
+    "react-app-rewired": "^2.1.8"
+  }
+}

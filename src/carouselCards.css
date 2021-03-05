@@ -1,0 +1,11 @@
+.cards {
+    padding: 4rem;
+    background: #fff;
+    min-width: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #171738;
+    font-family: 'Bodoni 72 Book';
+  }
